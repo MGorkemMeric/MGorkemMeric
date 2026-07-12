@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="images/banner_cyberpunk_samurai.png" alt="Cyberpunk Samurai Banner" width="850" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/MGorkemMeric/MGorkemMeric/main/images/banner_cyberpunk_samurai.png" alt="Cyberpunk Samurai Banner" width="850" style="border-radius: 8px;" />
 </p>
 
 <h1 align="center">
   <a href="https://github.com/MGorkemMeric">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="45" height="45" style="vertical-align: middle;" />
     Görkem | <i>Game Developer & Code Alchemist</i>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="45" height="45" style="vertical-align: middle;" />
   </a>
 </h1>
 
@@ -24,34 +22,39 @@
 
 ---
 
-## &#x1F525; GitHub Stats
+## 🖥️ About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MGorkemMeric/MGorkemMeric/main/images/stats_card_github.png" alt="GitHub Stats Card" width="500" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
 
 <div align="center">
 
-| **Commits** | **Pull Requests** | **Issues** | **Repositories** |
-|:-----------:|:-----------------:|:----------:|:----------------:|
-| <a href="https://github.com/MGorkemMeric"><img src="https://github-readme-stats.vercel.app/api?username=MGorkemMeric&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=B026FF&hide_border=true&count_private=true" alt="GitHub Stats" /></a> | <a href="https://github.com/MGorkemMeric"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGorkemMeric&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=true" alt="Top Languages" /></a> | <a href="https://github.com/MGorkemMeric"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MGorkemMeric&theme=github_dark" alt="Profile Details" /></a> | <a href="https://github.com/MGorkemMeric"><img src="https://github-readme-streak-stats.herokuapp.com?user=MGorkemMeric&theme=tokyonight&ring=00FF41&fire=B026FF&currStreakLabel=00FFFF&sideLabels=00FF41&dates=B026FF" alt="Streak Stats" /></a> |
+| **Commits & Stats** | **Top Languages** |
+|:-------------------:|:-----------------:|
+| <a href="https://github.com/MGorkemMeric"><img src="https://github-readme-stats.vercel.app/api?username=MGorkemMeric&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=B026FF&hide_border=true&count_private=true" alt="GitHub Stats" /></a> | <a href="https://github.com/MGorkemMeric"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGorkemMeric&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=true" alt="Top Languages" /></a> |
+
+| **Streak Stats** | **Contribution Graph** |
+|:----------------:|:----------------------:|
+| <a href="https://github.com/MGorkemMeric"><img src="https://github-readme-streak-stats.herokuapp.com?user=MGorkemMeric&theme=tokyonight&ring=00FF41&fire=B026FF&currStreakLabel=00FFFF&sideLabels=00FF41&dates=B026FF" alt="Streak Stats" /></a> | <a href="https://github.com/MGorkemMeric"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MGorkemMeric&theme=github_dark" alt="Profile Details" /></a> |
 
 </div>
 
 ---
 
-## &#x1F3AE; Featured Projects
+## 🎮 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-|:-------:|:-----------:|:----------:|
-| **CircleClash** | Fast-paced circle battle game with strategic gameplay | C# / Unity |
-| **TopDownArena** | Top-down arena shooter with waves of enemies | C# / ShaderLab |
-| **CTRL7** | Barcode tracking & inventory management system | TypeScript |
-| **FindBound** | Logic puzzle game - find the hidden boundaries | TypeScript / ShaderLab |
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MGorkemMeric/MGorkemMeric/main/images/projects_showcase.png" alt="Projects Showcase" width="600" />
+</p>
 
 ---
 
-## &#x1F6E0;&#xFE0F; Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
 
@@ -72,23 +75,13 @@
 
 ---
 
-## &#x26A1; GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MGorkemMeric/MGorkemMeric/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## &#x1F517; Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
 
   <a href="https://github.com/MGorkemMeric">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="Hi!" />
 
 </p>
 
